@@ -2,7 +2,7 @@
 
 This is repo contains code that I generate while working on the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) udemy course for learning Python.
 
-This repo covers the project for days 23 and it is a capstone project.
+This repo covers the project for days 23 and it is a capstone project. It's really gritty! The collision detection is crap. Turtle isn't a very good gaming engine.
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/darkstar-holdings-edu/python_trogger_game)
 ![GitHub](https://img.shields.io/github/license/darkstar-holdings-edu/python_trogger_game)
